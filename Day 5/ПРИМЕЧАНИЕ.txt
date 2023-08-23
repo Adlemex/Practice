@@ -1,0 +1,5 @@
+Для задачи 8:
+ https://matplotlib.org/stable/tutorials/colors/colormaps.html
+У вас будет:
+
+cmap='jet'
